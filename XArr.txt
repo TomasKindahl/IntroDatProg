@@ -53,11 +53,11 @@ Extra array-övningar:
        dubblerar index.
 
     array 7: Lägg till en ny array som registrerar statistik.
-	   Eftersom slumpvärdena är från och med 1 till 10, så
-	   skall statistiken ha indexen 1 till och med 10. Noll-
-	   ställ statistiken. Scanna igenom arrayen med slumptal. 
-	   Om du hittar ett slumptal med värdet k skall du räkna
-	   upp statistiken för talet k. 
+       Eftersom slumpvärdena är från och med 1 till 10, så
+       skall statistiken ha indexen 1 till och med 10. Noll-
+       ställ statistiken. Scanna igenom arrayen med slumptal. 
+       Om du hittar ett slumptal med värdet k skall du räkna
+       upp statistiken för talet k. 
 	   
 	   När du gått igenom alla slumpvärden skriver du ut
 	   statistiken, t.ex. på detta vis:
