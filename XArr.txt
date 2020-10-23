@@ -59,8 +59,8 @@ Extra array-övningar:
        Om du hittar ett slumptal med värdet k skall du räkna
        upp statistiken för talet k. 
 	   
-	   När du gått igenom alla slumpvärden skriver du ut
-	   statistiken, t.ex. på detta vis:
+       När du gått igenom alla slumpvärden skriver du ut
+       statistiken, t.ex. på detta vis:
          antal 1:or: 3
          antal 2:or: 0
          antal 3:or: 2
