@@ -1,0 +1,53 @@
+Extra array-övningar:
+
+    array 1: Använd INTE array: skriv ett program som slumpar
+       10 tal mellan 1 till 10, och skriver ut dem till
+       skärmen, exempelvis
+         3
+         2
+         8
+         5
+         8 
+         10
+         6
+         5
+         10
+         7
+         Press any key to continue . . .
+		 
+       Använd en for-loop!
+
+    array 2: Lös exakt samma uppgift, men använd en array
+       där du sparar de slumpade värdena, skriv sedan ut dem
+       så här (bara ett exempel):
+         1: 3
+         2: 2
+         3: 8
+         4: 5
+         5: 8
+         6: 10
+         7: 6
+         8: 5
+         9: 10
+         10: 7
+         Press any key to continue . . .
+		 
+       Skriv alltså ut arrayen EFTER att du lagt in slump-
+       värden i arrayen. 
+	
+       Använd en for-loop även för utskriften.
+
+    array 3: Gör som i uppgift 2, men skriv ut dem uppifrån
+       och ner. Använd en for-loop som räknar uppifrån och
+       ner.
+
+    array 4: I samma array skriv ut alla jämna index-element,
+       Designa for-loopen så att den börjar på 0 och skriver
+       ut vart annat arrayelement.
+	   
+    array 5: Gå igenom samma array men skriv ut bara de
+       element som är jämnt delbara med tre.
+	   
+    array 6: I samma array skriv ut index-elementen 1, 2, 4
+       och 8. Designa for-loopen så att den börjar på 1 och
+       dubblerar index.
