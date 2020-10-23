@@ -1,0 +1,16 @@
+Extra-uppgifter på felhantering:
+
+  Moment 1, övningar:
+
+     XErr 1: Moment 1, övningar, Övning 1:3: lägg till felhantering
+       vid inmatning, så att felaktiga inmatningar ger repeterade
+       frågor, t.ex.:
+         Ange cirkelns diameter: 12 5
+         Felaktig inmatning!
+         Ange cirkelns diameter: 12.5
+         Felaktig inmatning!
+         Ange cirkelns diameter: 12,5
+         
+         En cirkel med diametern 10,5 har:
+
+     Xerr 2: 
