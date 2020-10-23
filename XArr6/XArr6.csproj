@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{9FB54B01-CD45-45C9-A2E4-2C676ED75FF6}</ProjectGuid>
+    <ProjectGuid>{3D907C68-E6E7-4E09-9F46-17B1E7A8E861}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>XApp6</RootNamespace>
-    <AssemblyName>XApp6</AssemblyName>
+    <RootNamespace>XArr6</RootNamespace>
+    <AssemblyName>XArr6</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
